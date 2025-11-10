@@ -235,9 +235,8 @@ open data/processed/network_plotly.html   # macOS
 ## 🪪 Author
 
 **Lakshya Mehta**  
-📍 Grade 12, CBSE (Commerce with Mathematics)  
-💻 Passionate about AI, Data Analytics, and Network Science  
-🌐 [GitHub](https://github.com/) • [LinkedIn](https://linkedin.com/)
+**Khushi Bansal**
+**Aziz Barwaniwala**
 
 ---
 
