@@ -235,7 +235,9 @@ open data/processed/network_plotly.html   # macOS
 ## 🪪 Author
 
 **Lakshya Mehta**  
+
 **Khushi Bansal**
+
 **Aziz Barwaniwala**
 
 ---
