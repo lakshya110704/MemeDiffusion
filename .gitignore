@@ -6,3 +6,4 @@ data/processed/
 .vscode/
 sample_network.html
 data
+.env
